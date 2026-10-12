@@ -114,4 +114,6 @@ The full citation and DOI will be added after publication.
 
 ## License
 
-Please refer to the license information provided with this repository and the individual code packages.
+The original SUTRA-DeepONet code in this repository is released under the MIT License. See the `LICENSE` file for details.
+
+Third-party software, source code, and datasets, if any, remain subject to their respective licenses and terms of use.
